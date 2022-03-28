@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: pyrocketscience
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Dummy
+    family-names: Eller
+    orcid: 'https://orcid.org/0000-0003-4925-7248'
+    affiliation: German Aerospace Center (DLR)
+repository-code: 'https://github.com/d-eller/research-software'
+abstract: >-
+  Python-based research software for rocket science.
+  Does enormously complex things.
+keywords:
+  - rocket science
+  - DLR-SC
+license: MIT
+version: 1.0.0
+date-released: '2022-03-25'
